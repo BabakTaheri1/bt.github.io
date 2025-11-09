@@ -391,7 +391,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-on-ac-informed-dc-optimal-transmission-switching-has-been-accepted-to-the-ieee-transactions-on-power-systems",
+            },},{id: "news-i-received-the-dominion-energy-inclusion-equity-and-diversity-scholarship-award-for-the-second-consecutive-time",
+          title: 'I received the Dominion Energy Inclusion, Equity, and Diversity Scholarship Award for the...',
+          description: "",
+          section: "News",},{id: "news-i-defended-my-dissertation-on-improving-power-system-approximations-through-machine-learning-inspired-optimization-methods-to-complete-the-ph-d-degree",
+          title: 'I defended my dissertation on Improving Power System Approximations Through Machine Learning-Inspired Optimization...',
+          description: "",
+          section: "News",},{id: "news-i-began-my-summer-internship-at-dominion-energy-in-the-electric-transmission-strategic-initiatives-group",
+          title: 'I began my summer internship at Dominion Energy in the Electric Transmission Strategic...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-ac-informed-dc-optimal-transmission-switching-has-been-accepted-to-the-ieee-transactions-on-power-systems",
           title: 'Our paper on AC-Informed DC Optimal Transmission Switching has been accepted to the...',
           description: "",
           section: "News",},{id: "news-our-paper-on-improving-the-lindistflow-approximation-in-distribution-systems-has-been-accepted-to-the-ieee-transactions-on-smart-grid",
@@ -464,11 +473,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/babak-taheri", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://orcid.org/0000-0002-7870-3465", "_blank");
         },
       },{
         id: 'social-scholar',
