@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-two-papers-accepted-to-the-23rd-power-systems-computational-conference-pscc-to-appear-in-electric-power-systems-research",
+            },},{id: "news-began-my-part-time-internship-at-north-american-electric-reliability-corporation-nerc-in-the-advanced-system-analytics-amp-amp-modeling-asam-department",
+          title: 'Began my part-time internship at North American Electric Reliability Corporation (NERC) in the...',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-to-the-23rd-power-systems-computational-conference-pscc-to-appear-in-electric-power-systems-research",
           title: 'Two papers accepted to the 23rd Power Systems Computational Conference (PSCC), to appear...',
           description: "",
           section: "News",},{id: "news-paper-accepted-to-the-ieee-transactions-on-power-systems",
