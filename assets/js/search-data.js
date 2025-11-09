@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-received-the-dominion-energy-inclusion-equity-and-diversity-scholarship-award-for-the-second-consecutive-time",
-          title: 'I received the Dominion Energy Inclusion, Equity, and Diversity Scholarship Award for the...',
+            },},{id: "news-awarded-the-dominion-energy-inclusion-equity-and-diversity-scholarship-for-the-second-time",
+          title: 'Awarded the Dominion Energy Inclusion, Equity, and Diversity Scholarship for the second time....',
           description: "",
           section: "News",},{id: "news-i-defended-my-ph-d-dissertation-improving-power-system-approximations-through-machine-learning-inspired-optimization-methods",
           title: 'I defended my Ph.D. dissertation: Improving Power System Approximations Through Machine Learning-Inspired Optimization...',
